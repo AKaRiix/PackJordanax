@@ -1,0 +1,51 @@
+{
+
+
+	"FennecBlanche Jordanax": {
+		"BodyID": 4284,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "Chassis_Grain_B.png"
+		},
+		"Body": {
+			"Diffuse": "fen_diffuse_Jordanax.png",
+			"Skin": "fen_skin.png"
+		}
+    },
+	"FennecJaune Jordanax": {
+		"BodyID": 4284,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "Chassis_Grain_D.png"
+		},
+		"Body": {
+			"Diffuse": "fen_diffuse_Y_jordanax.png",
+			"Skin": "fen_skin.png"
+		}
+    },
+	"FennecNoir Jordanax": {
+		"BodyID": 4284,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "Chassis_Grain_D.png"
+		},
+		"Body": {
+			"Diffuse": "fen_diffuse_noir_jordanax.png",
+			"Skin": "fen_skin.png"
+		}
+    },
+	"Octane Jordanax": {
+		"BodyID": 23,
+		"SkinID": 0,
+		"Chassis": {
+		"Diffuse": "HyperBeast_Chassis_O.png"
+
+		},
+		"Body": {
+			
+			"Diffuse": "HyperBeast_Diffuse_Jordanax.png",
+			
+			"Skin": "HyperBeast_Diffuse_Jordanax.png"
+		}
+	}
+}
