@@ -47,5 +47,19 @@
 			
 			"Skin": "HyperBeast_Diffuse_Jordanax.png"
 		}
+	},
+	"OctaneNoir Jordanax": {
+		"BodyID": 23,
+		"SkinID": 0,
+		"Chassis": {
+		"Diffuse": "HyperBeast_Chassis_O.png"
+
+		},
+		"Body": {
+			
+			"Diffuse": "octane_noir_jordanax.png",
+			
+			"Skin": "octane_noir_jordanax.png"
+		}
 	}
 }
